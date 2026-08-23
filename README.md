@@ -1,4 +1,4 @@
-# Ex Ante — notebooks
+# Ex Ante - notebooks
 
 Code, data and charts behind the posts at [exanteblog.substack.com](https://exanteblog.substack.com).
 
