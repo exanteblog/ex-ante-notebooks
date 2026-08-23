@@ -2,7 +2,7 @@
 
 How much of my R² variation was the train/test split alone?
 
-**Data:** Medical Cost Personal dataset (1,338 rows) — `insurance.csv`
+**Data:** Medical Cost Personal dataset (1,338 rows) - `insurance.csv`
 
 **Method:** the same linear regression with a smoker × BMI interaction, fitted
 10,000 times on different random splits, to get the distribution of test-set R².
