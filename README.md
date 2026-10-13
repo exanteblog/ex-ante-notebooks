@@ -6,8 +6,9 @@ Each folder is one post. Every notebook runs top to bottom on a fresh kernel.
 
 | Post | Notebook | Published |
 |---|---|---|
-| The Day My R² Wouldn't Sit Still | [`2026-09-r-squared`](2026-09-r-squared/) | Sept 2026 |
+| Everything You Do Is a Portfolio | [`2026-10-life-portfolio`](2026-10-life-portfolio/) | Oct 2026 |
 | Two Portfolios, One Score | [`2026-09-sharpe-ratio`](2026-09-sharpe-ratio/) | Sept 2026 |
+| The Day My R² Wouldn't Sit Still | [`2026-09-r-squared`](2026-09-r-squared/) | Sept 2026 |
 
 ## Running these
 
